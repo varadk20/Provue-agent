@@ -1,4 +1,4 @@
-# Finance Research Agent - Design Document
+# Provue Finance Research Agent - Design Document
 
 ## 1. System Overview
 

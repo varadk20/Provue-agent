@@ -168,19 +168,7 @@
   "error_message": "I am unable to retrieve the top 5 merchants by net spend. The `transactionTool` encountered an error when attempting to aggregate by `top_merchants`.",
   "fallback_reason": "agent_execution_failed"
 }
-{
-  "request_id": "0b828df5-180f-42c2-8975-f641cc750a9d",
-  "timestamp": "2026-06-06T06:40:03.723Z",
-  "original_question": "What were my top 5 merchants by net spend between January and March 2025?",
-  "normalized_intent": "merchant_query",
-  "tools_called": [],
-  "sanitized_tool_inputs": {},
-  "database_tables_read": [],
-  "latency_ms": 5128,
-  "status": "failed",
-  "error_message": "I'm sorry, I was unable to retrieve the top 5 merchants by net spend. The transaction tool encountered an error when trying to aggregate by 'top_merchants'.",
-  "fallback_reason": "agent_execution_failed"
-}
+
 {
   "request_id": "24a78249-ebad-48bf-a030-fbb27fd9dc87",
   "timestamp": "2026-06-06T06:42:15.164Z",
