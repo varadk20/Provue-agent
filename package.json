@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "mastra dev",
-    "build": "mastra build",
-    "start": "mastra start"
+    "build": "echo build",
+    "start": "tsx src/mastra/server.ts"
   },
   "keywords": [],
   "author": "",
