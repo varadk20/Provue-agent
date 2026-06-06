@@ -1,0 +1,196 @@
+{
+  "request_id": "9f2efc0c-df70-4ed0-9f2a-f6c8dceccbc4",
+  "timestamp": "2026-06-06T06:36:50.114Z",
+  "original_question": "How much did I spend on food?",
+  "normalized_intent": "spending_query",
+  "tools_called": [],
+  "sanitized_tool_inputs": {},
+  "database_tables_read": [],
+  "latency_ms": 3634,
+  "status": "success",
+  "error_message": null,
+  "fallback_reason": null
+}
+{
+  "request_id": "56d3108f-7e49-4e28-8e55-da44033f3830",
+  "timestamp": "2026-06-06T06:36:53.974Z",
+  "original_question": "What were my top 5 merchants by net spend between January and March 2025?",
+  "normalized_intent": "merchant_query",
+  "tools_called": [],
+  "sanitized_tool_inputs": {},
+  "database_tables_read": [],
+  "latency_ms": 3846,
+  "status": "failed",
+  "error_message": "I am sorry, but I encountered an error when trying to retrieve the top merchants. I am unable to provide this information at the moment.",
+  "fallback_reason": "agent_execution_failed"
+}
+{
+  "request_id": "42a05aa7-2db1-408a-9583-8be3d971de5a",
+  "timestamp": "2026-06-06T06:36:57.610Z",
+  "original_question": "How much did I spend on Swiggy, including Swiggy Instamart and SWIGGY orders?",
+  "normalized_intent": "spending_query",
+  "tools_called": [],
+  "sanitized_tool_inputs": {},
+  "database_tables_read": [],
+  "latency_ms": 3631,
+  "status": "success",
+  "error_message": null,
+  "fallback_reason": null
+}
+{
+  "request_id": "0d33daa9-3251-4318-85b0-cfcbdea52bcb",
+  "timestamp": "2026-06-06T06:37:02.069Z",
+  "original_question": "How much money did I transfer?",
+  "normalized_intent": "transfer_query",
+  "tools_called": [],
+  "sanitized_tool_inputs": {},
+  "database_tables_read": [],
+  "latency_ms": 4454,
+  "status": "success",
+  "error_message": null,
+  "fallback_reason": null
+}
+{
+  "request_id": "732e1b56-7b29-4ef1-8701-0dcb601641a9",
+  "timestamp": "2026-06-06T06:37:06.171Z",
+  "original_question": "Which transactions look like recurring subscriptions?",
+  "normalized_intent": "subscription_query",
+  "tools_called": [],
+  "sanitized_tool_inputs": {},
+  "database_tables_read": [],
+  "latency_ms": 4096,
+  "status": "success",
+  "error_message": null,
+  "fallback_reason": null
+}
+{
+  "request_id": "857b88f3-d856-4581-b833-273483839fec",
+  "timestamp": "2026-06-06T06:37:09.759Z",
+  "original_question": "Do I have any data for rent in April 2025?",
+  "normalized_intent": "finance_query",
+  "tools_called": [],
+  "sanitized_tool_inputs": {},
+  "database_tables_read": [],
+  "latency_ms": 3581,
+  "status": "success",
+  "error_message": null,
+  "fallback_reason": null
+}
+{
+  "request_id": "8096f4a0-6719-46b1-a6c7-a89ddb8e414a",
+  "timestamp": "2026-06-06T06:37:13.265Z",
+  "original_question": "What subscriptions do I have?",
+  "normalized_intent": "subscription_query",
+  "tools_called": [],
+  "sanitized_tool_inputs": {},
+  "database_tables_read": [],
+  "latency_ms": 3497,
+  "status": "success",
+  "error_message": null,
+  "fallback_reason": null
+}
+{
+  "request_id": "602cd0dc-7455-4295-972e-84d3bb0d719f",
+  "timestamp": "2026-06-06T06:37:16.569Z",
+  "original_question": "What was Saffron Bluechip Equity Fund's return from 2024-01-01 to 2025-01-01?",
+  "normalized_intent": "fund_query",
+  "tools_called": [],
+  "sanitized_tool_inputs": {},
+  "database_tables_read": [],
+  "latency_ms": 3296,
+  "status": "success",
+  "error_message": null,
+  "fallback_reason": null
+}
+{
+  "request_id": "5893b322-4b32-4095-b0f5-f1050de131f0",
+  "timestamp": "2026-06-06T06:37:18.955Z",
+  "original_question": "Rank all funds by one-year return between 2024-01-01 and 2025-01-01, and show the spread between best and worst.",
+  "normalized_intent": "fund_query",
+  "tools_called": [],
+  "sanitized_tool_inputs": {},
+  "database_tables_read": [],
+  "latency_ms": 2378,
+  "status": "failed",
+  "error_message": "I can only look up one fund at a time, so I'm unable to rank all funds.",
+  "fallback_reason": "agent_execution_failed"
+}
+{
+  "request_id": "eeab9736-b626-4c8f-840d-bf4b5fce0162",
+  "timestamp": "2026-06-06T06:37:22.065Z",
+  "original_question": "What is my portfolio worth today, and how much have I made on it in absolute INR?",
+  "normalized_intent": "finance_query",
+  "tools_called": [],
+  "sanitized_tool_inputs": {},
+  "database_tables_read": [],
+  "latency_ms": 3101,
+  "status": "success",
+  "error_message": null,
+  "fallback_reason": null
+}
+{
+  "request_id": "6f58181c-5320-4bc4-b108-fe385c86d568",
+  "timestamp": "2026-06-06T06:37:25.236Z",
+  "original_question": "What is my realised return on my Sentinel Nifty Index Fund holding, given when I bought it?",
+  "normalized_intent": "fund_query",
+  "tools_called": [],
+  "sanitized_tool_inputs": {},
+  "database_tables_read": [],
+  "latency_ms": 3161,
+  "status": "success",
+  "error_message": null,
+  "fallback_reason": null
+}
+{
+  "request_id": "618c03cb-a0c0-4ed2-b7a7-ae874dcbebbd",
+  "timestamp": "2026-06-06T06:37:29.805Z",
+  "original_question": "Which holding has the highest return?",
+  "normalized_intent": "holding_query",
+  "tools_called": [],
+  "sanitized_tool_inputs": {},
+  "database_tables_read": [],
+  "latency_ms": 4562,
+  "status": "success",
+  "error_message": null,
+  "fallback_reason": null
+}
+
+{
+  "request_id": "c5c73036-ffd3-4cc5-8093-6808c7e02802",
+  "timestamp": "2026-06-06T06:39:41.731Z",
+  "original_question": "What were my top 5 merchants by net spend between January and March 2025?",
+  "normalized_intent": "merchant_query",
+  "tools_called": [],
+  "sanitized_tool_inputs": {},
+  "database_tables_read": [],
+  "latency_ms": 5130,
+  "status": "failed",
+  "error_message": "I am unable to retrieve the top 5 merchants by net spend. The `transactionTool` encountered an error when attempting to aggregate by `top_merchants`.",
+  "fallback_reason": "agent_execution_failed"
+}
+{
+  "request_id": "0b828df5-180f-42c2-8975-f641cc750a9d",
+  "timestamp": "2026-06-06T06:40:03.723Z",
+  "original_question": "What were my top 5 merchants by net spend between January and March 2025?",
+  "normalized_intent": "merchant_query",
+  "tools_called": [],
+  "sanitized_tool_inputs": {},
+  "database_tables_read": [],
+  "latency_ms": 5128,
+  "status": "failed",
+  "error_message": "I'm sorry, I was unable to retrieve the top 5 merchants by net spend. The transaction tool encountered an error when trying to aggregate by 'top_merchants'.",
+  "fallback_reason": "agent_execution_failed"
+}
+{
+  "request_id": "24a78249-ebad-48bf-a030-fbb27fd9dc87",
+  "timestamp": "2026-06-06T06:42:15.164Z",
+  "original_question": "What were my top 5 merchants by net spend between January and March 2025?",
+  "normalized_intent": "merchant_query",
+  "tools_called": [],
+  "sanitized_tool_inputs": {},
+  "database_tables_read": [],
+  "latency_ms": 4709,
+  "status": "success",
+  "error_message": null,
+  "fallback_reason": null
+}
